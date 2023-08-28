@@ -1,0 +1,11 @@
+---
+const { title, workplace, description, date } = Astro.props;
+---
+
+<div class="pl-2">
+  <div class="p-2 pl-5 border-l-2 border-slate-700 border-dashed">
+    <p class="font-semibold">{title} - {workplace}</p>
+    <p class="text-gray-300 text-sm text-yellow-300">{date}</p>
+    <p class="text-sm mt-2 text-gray-400">{description}</p>
+  </div>
+</div>
