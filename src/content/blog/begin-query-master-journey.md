@@ -1,8 +1,8 @@
 ---
-title: 'QueryMaster begins - invisal/profile'
-description: 'Lorem ipsum dolor sit amet'
+title: 'QueryMaster journey begins'
+description: 'QueryMaster journey begins here. Our mission is to create one of the best open source databsae GUI client.'
 pubDate: 'Sep 05 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/querymaster.png'
 ---
 
 In early 2023, the majority of our developers switched to Mac. Previously, we had been using HeidiSQL as a client, but we couldn't find a similar client for Mac. We tried numerous other clients and weighed their pros and cons.
