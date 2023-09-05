@@ -35,3 +35,45 @@ h5 {
   height: 20px;
   margin-right: 4px;
 }
+
+.blog-content p {
+  margin: 10px 0;
+}
+
+.blog-content h2 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.blog-content ul {
+  list-style: square;
+  padding-left: 2rem;
+}
+
+.blog-content ul li {
+  margin: 5px;
+}
+
+.blog-content table {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.blog-content table td,
+.blog-content table th {
+  padding: 7px;
+  border: 1px solid #444;
+}
+
+.blog-content a {
+  color: #f1c40f;
+  text-decoration: underline;
+}
+
+.blog-content img {
+  margin: 20px 0;
+  border-radius: 10px;
+}
