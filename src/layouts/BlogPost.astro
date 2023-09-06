@@ -72,6 +72,17 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
           <div class="blog-content">
             <slot />
           </div>
+
+          <div class="container mx-auto mt-10 mb-10">
+            <script
+              src="https://utteranc.es/client.js"
+              repo="invisal/invisal-website"
+              issue-term="pathname"
+              label="blog-post"
+              theme="github-dark"
+              crossorigin="anonymous"
+              async></script>
+          </div>
         </div>
       </article>
     </main>
