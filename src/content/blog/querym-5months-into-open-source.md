@@ -5,7 +5,7 @@ pubDate: "Oct 10 2023"
 heroImage: "/querymaster-screen1.png"
 ---
 
-I've started [Querym](https://github.com/querymx/Querym) for five months. It is a cross-platform database client that is open source. We initially solely supported MySQL, but more recently, PostgreSQL support was introduced. There are ups and downs along the journey, and this is what I learn.
+I've started [Querym](https://github.com/querymx/Querym) for five months. It is a cross-platform open source database graphical client. We initially only supported MySQL, but more recently, PostgreSQL support was added. There are ups and downs along the journey, and this is what I learn.
 
 ## Escape the hell of Windows SmartScreen
 
